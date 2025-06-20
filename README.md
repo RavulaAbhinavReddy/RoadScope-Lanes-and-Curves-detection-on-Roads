@@ -91,10 +91,12 @@ cd RoadScope-Lanes-and-Curves-detection-on-Roads
 Install dependencies:
 
 pip install -r requirements.txt
+
 Run the scripts:
 
 python straight_lane_detection.py
 python curved_lane_detection.py
+
 🗂️ Project Structure
 
 RoadScope/
