@@ -81,33 +81,22 @@ A classical computer vision project for detecting **straight and curved road lan
 
 ## 📦 Dependencies
 
-```bash
 pip install opencv-python numpy
 
 🚀 How to Run
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/RavulaAbhinavReddy/RoadScope-Lanes-and-Curves-detection-on-Roads.git
 cd RoadScope-Lanes-and-Curves-detection-on-Roads
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the scripts:
 
-bash
-Copy
-Edit
 python straight_lane_detection.py
 python curved_lane_detection.py
 🗂️ Project Structure
-Copy
-Edit
+
 RoadScope/
 ├── straight_lane_detection.py
 ├── curved_lane_detection.py
